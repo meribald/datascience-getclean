@@ -22,13 +22,13 @@
 	- Axis: The axis of the measurement; X-axis, Y-axis, or Z-axis.
 	
 ### Measured Variables
-	- BodyAcceleration<br/>
+	- BodyAcceleration
 		The body acceleration signal obtained by subtracting the gravity from the total acceleration in standard gravity units 'g'. 
-	- GravityAcceleration<br/>
+	- GravityAcceleration
 		The gravity acceleration signal in standard gravity units 'g'.
-	- BodyAccelerationJerk<br/>
+	- BodyAccelerationJerk
 		Jerk signals in standard gravity units 'g' obtained from the body linear acceleration.
-	- BodyGyro<br\>
+	- BodyGyro
 		The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
-	- BodyGyroJerk<br/>
+	- BodyGyroJerk
 		Jerk signals in standard radians/second obtained from the angular velocity.
