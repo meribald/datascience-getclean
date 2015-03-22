@@ -12,7 +12,7 @@ Course project for Cousera Data Science track Getting and Cleaning Data course.
     - Appropriately labels the data set with descriptive variable names. 
     - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-	Use the line below to run run_analysis. <br/>
+	Use the lines below to run run_analysis. <br/>
 	$source("run_analysis.R")<br/>
 	$result <- run_analysis()
 6. To read result.txt, copy "result.txt" in your working directory and then use the line below:<br/>
